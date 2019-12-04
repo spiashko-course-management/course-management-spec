@@ -1,0 +1,174 @@
+<?xml version="1.0"?>
+<wireframeprocopy mfxprojectid="Mb7027b014e32b661cd5523852d499f831575307068544" mfxclientid="C622dbdbb34d54423bdea9376df097c52">
+    <component xmlns="http://www.w3.org/1999/xhtml" type="MF_SketchBrowserFrame" angle="0" w="900" h="700" x="335" y="131" eid="cmpD22e8a514d504e5ea523d5d26018a8100">
+    <settings>
+        <property name="fillColor" type="String">#FFFFFF</property>
+        <property name="fillType" type="String">solid</property>
+        <property name="fillAlpha" type="Number">1</property>
+        <property name="mfwprosketchmode" type="Boolean">true</property>
+        <property name="borderColor" type="String">#000000</property>
+        <property name="borderWidth" type="Number">1</property>
+        <property name="roughness" type="Number">0.5</property>
+        <property name="text" type="String">sso.course-management.com</property>
+        <property name="icon" type="String"/>
+        <property name="isGoogleFontUsed" type="Boolean">true</property>
+        <property name="textAlign" type="String">center</property>
+        <property name="fontType" type="String">Architects Daughter</property>
+        <property name="fontSize" type="Number">16</property>
+        <property name="fontColor" type="String">#000000</property>
+        <property name="fontWeight" type="String">normal</property>
+        <property name="fontStyle" type="String">normal</property>
+        <property name="textDecoration" type="String">none</property>
+    </settings>
+</component>
+<component xmlns="http://www.w3.org/1999/xhtml" type="MF_SketchRectangle" angle="0" w="360" h="440" x="598" y="285" groupid="D1e703e22c90b9c7fbc5eb98c69c2a882" eid="cmpD8d8fec30ea5a1c19f24ca1e7ec46458c">
+<settings>
+    <property name="fillColor" type="String">#FFFFFF</property>
+    <property name="fillType" type="String">solid</property>
+    <property name="fillAlpha" type="Number">1</property>
+    <property name="mfwprosketchmode" type="Boolean">true</property>
+    <property name="borderColor" type="String">#000000</property>
+    <property name="borderWidth" type="Number">1</property>
+    <property name="borderRadius" type="Number">0</property>
+    <property name="roughness" type="Number">0.5</property>
+</settings>
+</component>
+<component xmlns="http://www.w3.org/1999/xhtml" type="MF_Text" angle="0" w="75" h="35" x="737.5" y="306" groupid="D1e703e22c90b9c7fbc5eb98c69c2a882" eid="cmpDcb867509f5e00b360d442272acfdb588">
+<settings>
+    <property name="text" type="String">&lt;span style="font-weight: bold;"&gt;Login&lt;/span&gt;</property>
+    <property name="fontType" type="String">Architects Daughter</property>
+    <property name="isGoogleFontUsed" type="Boolean">true</property>
+    <property name="textAlign" type="String">center</property>
+    <property name="fontSize" type="Number">20</property>
+    <property name="fontColor" type="String">#000000</property>
+    <property name="lineHeight" type="Number">1</property>
+    <property name="padding" type="Number">5</property>
+</settings>
+</component>
+<component xmlns="http://www.w3.org/1999/xhtml" type="MF_SketchTextInput" angle="0" w="329" h="40" x="612" y="361" groupid="D1e703e22c90b9c7fbc5eb98c69c2a882" eid="cmpD1143a358f6d8c4dc60f022d0001701d4">
+<settings>
+    <property name="fillColor" type="String">#FFFFFF</property>
+    <property name="fillType" type="String">solid</property>
+    <property name="fillAlpha" type="Number">1</property>
+    <property name="mfwprosketchmode" type="Boolean">true</property>
+    <property name="borderColor" type="String">#000000</property>
+    <property name="borderWidth" type="Number">1</property>
+    <property name="roughness" type="Number">1</property>
+    <property name="text" type="String">Username</property>
+    <property name="textPadding" type="Number">10</property>
+    <property name="isGoogleFontUsed" type="Boolean">true</property>
+    <property name="textAlign" type="String">left</property>
+    <property name="fontType" type="String">Architects Daughter</property>
+    <property name="fontSize" type="Number">14</property>
+    <property name="fontColor" type="String">#000000</property>
+    <property name="fontWeight" type="String">normal</property>
+    <property name="fontStyle" type="String">normal</property>
+    <property name="textDecoration" type="String">none</property>
+</settings>
+</component>
+<component xmlns="http://www.w3.org/1999/xhtml" type="MF_SketchTextInput" angle="0" w="329" h="40" x="612" y="429.95454545454504" groupid="D1e703e22c90b9c7fbc5eb98c69c2a882" eid="cmpD25aa5bdf955cf82f4c0a6206d8252021">
+<settings>
+    <property name="fillColor" type="String">#FFFFFF</property>
+    <property name="fillType" type="String">solid</property>
+    <property name="fillAlpha" type="Number">1</property>
+    <property name="mfwprosketchmode" type="Boolean">true</property>
+    <property name="borderColor" type="String">#000000</property>
+    <property name="borderWidth" type="Number">1</property>
+    <property name="roughness" type="Number">1</property>
+    <property name="text" type="String">Password</property>
+    <property name="textPadding" type="Number">10</property>
+    <property name="isGoogleFontUsed" type="Boolean">true</property>
+    <property name="textAlign" type="String">left</property>
+    <property name="fontType" type="String">Architects Daughter</property>
+    <property name="fontSize" type="Number">14</property>
+    <property name="fontColor" type="String">#000000</property>
+    <property name="fontWeight" type="String">normal</property>
+    <property name="fontStyle" type="String">normal</property>
+    <property name="textDecoration" type="String">none</property>
+</settings>
+</component>
+<component xmlns="http://www.w3.org/1999/xhtml" type="MF_SketchCheckBox" angle="0" w="155" h="25" x="615" y="512" groupid="D1e703e22c90b9c7fbc5eb98c69c2a882" eid="cmpD7defa5a59e8cf1e6b1792e70cf24bca0">
+<settings>
+    <property name="fillColor" type="String">#FFFFFF</property>
+    <property name="fillType" type="String">solid</property>
+    <property name="fillAlpha" type="Number">1</property>
+    <property name="mfwprosketchmode" type="Boolean">true</property>
+    <property name="borderColor" type="String">#000000</property>
+    <property name="borderWidth" type="Number">1</property>
+    <property name="roughness" type="Number">1</property>
+    <property name="selected" type="Boolean">true</property>
+    <property name="isGoogleFontUsed" type="Boolean">true</property>
+    <property name="fontType" type="String">Architects Daughter</property>
+    <property name="fontSize" type="Number">16</property>
+    <property name="fontColor" type="String">#000000</property>
+    <property name="text" type="String">Remember me</property>
+    <property name="fontWeight" type="String">normal</property>
+    <property name="fontStyle" type="String">normal</property>
+    <property name="textDecoration" type="String">none</property>
+</settings>
+</component>
+<component xmlns="http://www.w3.org/1999/xhtml" type="MF_SketchButton" angle="0" w="125" h="30" x="815" y="509.5" groupid="D1e703e22c90b9c7fbc5eb98c69c2a882" eid="cmpDff6524eb562ece80443b499335ae1313">
+<settings>
+    <property name="fillColor" type="String">#212121</property>
+    <property name="fillType" type="String">solid</property>
+    <property name="fillAlpha" type="Number">1</property>
+    <property name="mfwprosketchmode" type="Boolean">true</property>
+    <property name="borderColor" type="String">#000000</property>
+    <property name="borderWidth" type="Number">1</property>
+    <property name="roughness" type="Number">1</property>
+    <property name="text" type="String">Sign in</property>
+    <property name="icon" type="String"/>
+    <property name="isGoogleFontUsed" type="Boolean">true</property>
+    <property name="textAlign" type="String">center</property>
+    <property name="fontType" type="String">Architects Daughter</property>
+    <property name="fontSize" type="Number">18</property>
+    <property name="fontColor" type="String">#FFFFFF</property>
+    <property name="fontWeight" type="String">normal</property>
+    <property name="fontStyle" type="String">normal</property>
+    <property name="textDecoration" type="String">none</property>
+</settings>
+</component>
+<component xmlns="http://www.w3.org/1999/xhtml" type="MF_SketchButton" angle="0" w="255" h="40" x="649" y="587" groupid="D1e703e22c90b9c7fbc5eb98c69c2a882" eid="cmpD982618f7cc019ddcc0ffabf143ed424f">
+<settings>
+    <property name="fillColor" type="String">#3A5898</property>
+    <property name="fillType" type="String">solid</property>
+    <property name="fillAlpha" type="Number">1</property>
+    <property name="mfwprosketchmode" type="Boolean">true</property>
+    <property name="borderColor" type="String">#3A5898</property>
+    <property name="borderWidth" type="Number">1</property>
+    <property name="roughness" type="Number">1</property>
+    <property name="text" type="String">Sign in with facebook</property>
+    <property name="icon" type="String">fa-facebook</property>
+    <property name="isGoogleFontUsed" type="Boolean">true</property>
+    <property name="textAlign" type="String">center</property>
+    <property name="fontType" type="String">Architects Daughter</property>
+    <property name="fontSize" type="Number">18</property>
+    <property name="fontColor" type="String">#FFFFFF</property>
+    <property name="fontWeight" type="String">normal</property>
+    <property name="fontStyle" type="String">normal</property>
+    <property name="textDecoration" type="String">none</property>
+</settings>
+</component>
+<component xmlns="http://www.w3.org/1999/xhtml" type="MF_SketchButton" angle="0" w="255" h="40" x="649" y="652" groupid="D1e703e22c90b9c7fbc5eb98c69c2a882" eid="cmpD291bb3ba9726b94f02b1565be81eb0cd">
+<settings>
+    <property name="fillColor" type="String">#2196F3</property>
+    <property name="fillType" type="String">solid</property>
+    <property name="fillAlpha" type="Number">1</property>
+    <property name="mfwprosketchmode" type="Boolean">true</property>
+    <property name="borderColor" type="String">#2196F3</property>
+    <property name="borderWidth" type="Number">1</property>
+    <property name="roughness" type="Number">1</property>
+    <property name="text" type="String">Sign in with Google</property>
+    <property name="icon" type="String">fa-google</property>
+    <property name="isGoogleFontUsed" type="Boolean">true</property>
+    <property name="textAlign" type="String">center</property>
+    <property name="fontType" type="String">Architects Daughter</property>
+    <property name="fontSize" type="Number">18</property>
+    <property name="fontColor" type="String">#FFFFFF</property>
+    <property name="fontWeight" type="String">normal</property>
+    <property name="fontStyle" type="String">normal</property>
+    <property name="textDecoration" type="String">none</property>
+</settings>
+</component>
+</wireframeprocopy>
+ 
